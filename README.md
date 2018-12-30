@@ -18,7 +18,7 @@ https://git-scm.com/downloads
 There are no contributers for this project yet!
 
 ### License ###
-This project is licensed under the MIT License- see the LICENSE.md file for details.
+This project is licensed under the MIT License- see the [LICENSE.md](LICENSE.md) file for details.
 
 ### Acknowledgements ###
 - Hat tip to the wonderful instructors at Team Treehouse and Traversy Media for their wonderful crash course available freely on youtube, [here](https://www.youtube.com/watch?v=SWYqp7iY_Tc).
