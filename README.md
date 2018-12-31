@@ -16,6 +16,7 @@ https://git-scm.com/downloads
 1. [Why version control matters.](why.md)
 2. [Getting started with Git.](startGit.md)
 3. [Branching.](branches.md)
+4. [Merging and merge conflicts.](merging.md)
 
 ### Authors ###
 - [PhantomMajor](https://github.com/PhantomMajor) - Initial Work
