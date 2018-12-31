@@ -1,3 +1,5 @@
+[Go back to contents](README.md/#Table-of-Contents)
+
 # Creating a Git repository #
 
 ### Creating a new directory which is a git repository ###
