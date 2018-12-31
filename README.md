@@ -12,6 +12,10 @@ Git should be installed on your machine.
 The link will take you to the official Git Downloads page.
 https://git-scm.com/downloads
 
+### Table of Contents ###
+1. [Why version control matters.](why.md)
+2. [Getting started with Git](startGit.md)
+
 ### Authors ###
 - [PhantomMajor](https://github.com/PhantomMajor) - Initial Work
 
