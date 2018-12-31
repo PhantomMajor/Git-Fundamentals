@@ -19,6 +19,7 @@ _Version Control System_ manages and controls all this automatically.
 Revision control. Version Control. Source Control. These are all names for the same thing.
 
 __Repositiory__: Collection of all the version of the particular project, along with some special information like:
+
     - What order did the changes occur in.
     - A description of each change.
     - Who is responsible for each change.
