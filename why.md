@@ -1,3 +1,5 @@
+[Go back to contents](README.md/Table of Contents)
+
 # Why Version Control Matters #
 
 Version Control is used to manage the different versions and drafts of a document. It involves naming and distinguishing between a series of drafts which lead to a final version.
