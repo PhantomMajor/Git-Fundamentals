@@ -1,4 +1,4 @@
-[Go back to contents](README.md/Table of Contents)
+[Go back to contents](README.md/###Table-of-Contents###)
 
 # Why Version Control Matters #
 
