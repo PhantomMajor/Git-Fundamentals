@@ -14,7 +14,8 @@ https://git-scm.com/downloads
 
 ### Table of Contents ###
 1. [Why version control matters.](why.md)
-2. [Getting started with Git](startGit.md)
+2. [Getting started with Git.](startGit.md)
+3. [Branching.](branches.md)
 
 ### Authors ###
 - [PhantomMajor](https://github.com/PhantomMajor) - Initial Work
